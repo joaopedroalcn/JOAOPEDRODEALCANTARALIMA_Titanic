@@ -2,8 +2,8 @@
 
 **@autor:** João Pedro de Alcântara Lima  
 **@contato:** joao.alcantara@discente.ufma.br
-**@data última versão:** 03/07/2025  
-**@versão:** 1.1  
+**@data última versão:** 18/07/2025  
+**@versão:** 1.3  
 **@Agradecimentos:** Universidade Federal do Maranhão (UFMA), Professor Doutor Thales Levi Azevedo Valente, e colegas de curso.
 
 ---
